@@ -1,1 +1,6 @@
-fastapi[all]
+openai
+langchain
+streamlit
+anthropic
+asyncio
+python-dotenv
